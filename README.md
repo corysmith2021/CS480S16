@@ -1,4 +1,4 @@
-# CS480s16
+# CS480S16
 The first exercise repository for CS 480 Senior Project
 
 ToDo
